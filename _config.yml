@@ -26,7 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Jay Jing"
   pronouns         : # example: "she/her"  
-  bio              : "Add a short bio here. A few sentences on your research interests, methods, and current affiliation usually work well."
+  bio              : |
+    Add a short bio here. A few sentences on your research interests, methods, and current affiliation usually work well.
+
+    Use a second paragraph here if you want to describe current projects, field interests, or background in more detail.
   location         :
   employer         : "Georgetown University"
   uri              : # URL

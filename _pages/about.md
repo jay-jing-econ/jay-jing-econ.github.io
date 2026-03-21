@@ -34,7 +34,7 @@ redirect_from:
 
   <div class="home-intro__bio">
     <p class="home-section__label">Short Bio</p>
-    <p>{{ author.bio | default: "Add a short bio here. A few sentences on your research interests, methods, and current affiliation usually work well." }}</p>
+    {{ author.bio | markdownify }}
   </div>
 </div>
 
