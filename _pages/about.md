@@ -40,5 +40,13 @@ redirect_from:
 
 <section class="home-section">
   <p class="home-section__label">Work in Progress</p>
-  <p>Use this section for current projects, draft papers, and ongoing collaborations. A short paragraph on each project or a concise list of working papers works well here.</p>
+  <div class="home-project">
+    <h3 class="home-project__title">Project Title Placeholder 1</h3>
+    <p>Abstract placeholder for work-in-progress project 1. Add a short summary of the research question, approach, and current status here.</p>
+  </div>
+
+  <div class="home-project">
+    <h3 class="home-project__title">Project Title Placeholder 2</h3>
+    <p>Abstract placeholder for work-in-progress project 2. Add a short summary of the research question, approach, and current status here.</p>
+  </div>
 </section>
