@@ -25,12 +25,13 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jay Jing"
-  pronouns         : # example: "she/her"  
-  bio              : |
-    Add a short bio here. A few sentences on your research interests, methods, and current affiliation usually work well.
+  pronouns         : "he/him"
+  bio              : "Hi, I’m a third-year PhD student in Economics at Georgetown University. My research lies at the intersection of political economy and development. I study how modern state capacity is shaped by technology, organizational design, and human capital.
 
-    Use a second paragraph here if you want to describe current projects, field interests, or background in more detail.
-  location         :
+
+"
+
+  location         : "Washington, D.C."
   employer         : "Georgetown University"
   uri              : # URL
   email            : "jj1053@georgetown.edu" 
