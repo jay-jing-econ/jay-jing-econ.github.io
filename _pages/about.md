@@ -42,11 +42,11 @@ redirect_from:
   <p class="home-section__label">Work in Progress</p>
   <div class="home-project">
     <h3 class="home-project__title">Cyberattack and the Rise of Cyberstate <em>(with <a href="https://www.juanfeliperiano.com" target="_blank" rel="noopener noreferrer">Juan Felipe Riaño</a>)</em></h3>
-    <p> From tax filing to emergency information, many core government services now depend on websites that can be disrupted by cyberattacks. This project provides the first causal evidence that DDoS attacks reduce the reliability of these services using novel high-frequency data. We further investigate how governments respond by reshaping their digital infrastructure, pointing to the emergence of a “cyberstate.” </p>
+    <p> From tax filing to emergency information, many core government services now depend on websites that can be disrupted by cyberattacks. This project provides the first causal evidence that DDoS attacks reduce the reliability of these services using novel high-frequency data. We further investigate how governments respond by reshaping their digital infrastructure, pointing to the emergence of a “cyberstate”. </p>
   </div>
 
   <div class="home-project">
     <h3 class="home-project__title">Government Downsizing and Performance 2</h3>
-    <p> I study how downsizing in the federal government, including the 2025 federal government mass layoff, affect the performance of government workers. </p>
+    <p> In 2025, around 350,000 federal government employees were laid off during the mass layoffs to increase government efficiency. However, little is known about the consequences of these workforce reductions. This project studies how such government downsizing affects worker performance. </p>
   </div>
 </section>
