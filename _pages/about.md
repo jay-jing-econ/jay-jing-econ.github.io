@@ -46,7 +46,7 @@ redirect_from:
   </div>
 
   <div class="home-project">
-    <h3 class="home-project__title">Government Downsizing and Performance 2</h3>
+    <h3 class="home-project__title">Government Downsizing and Performance </h3>
     <p> In 2025, around 350,000 federal government employees were laid off during the mass layoffs to increase government efficiency. However, little is known about the consequences of these workforce reductions. This project studies how such government downsizing affects worker performance. </p>
   </div>
 </section>
