@@ -41,7 +41,7 @@ redirect_from:
 <section class="home-section">
   <p class="home-section__label">Work in Progress</p>
   <div class="home-project">
-    <h3 class="home-project__title">Cyberattack and the Rise of Cyberstate <em>(with <a href="https://www.juanfeliperiano.com" target="_blank" rel="noopener noreferrer">Juan Felipe Riaño</a>)</em></h3>
+    <h3 class="home-project__title">Cyberattack and the Rise of the Cyberstate <em>(with <a href="https://www.juanfeliperiano.com" target="_blank" rel="noopener noreferrer">Juan Felipe Riaño</a>)</em></h3>
     <p> From tax filing to emergency information, many core government services now depend on websites that can be disrupted by cyberattacks. This project provides the first causal evidence that DDoS attacks reduce the reliability of these services using novel high-frequency data. We further investigate how governments respond by reshaping their digital infrastructure, pointing to the emergence of a “cyberstate”. </p>
   </div>
 
