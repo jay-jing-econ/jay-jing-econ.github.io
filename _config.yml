@@ -26,7 +26,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Jay Jing"
   pronouns         : "he/him"
-  bio              : "Hi, I’m a third-year PhD student in Economics at Georgetown University. My research lies at the intersection of political economy and development. I study how modern state capacity is shaped by technology, organizational design, and human capital.
+  bio              : |
+    Hi, I’m a third-year PhD student in Economics at Georgetown University. 
+
+    My research lies at the intersection of political economy and development. I'm interested in studying how modern state capacity is shaped by technology, organizational design, and human capital.
 
 
 "
